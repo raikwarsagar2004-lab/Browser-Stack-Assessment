@@ -33,7 +33,7 @@ browserstack-assignment/
 └── .env                    # Environment variables (NOT committed)
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/browserstack-assignment.git
+git clone [https://github.com/your-username/browserstack-assignment.git](https://github.com/raikwarsagar2004-lab/Browser-Stack-Assessment)
 cd browserstack-assignment
 2️⃣ Install Dependencies
 pip install -r requirements.txt
